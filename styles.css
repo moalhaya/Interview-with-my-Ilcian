@@ -1,0 +1,21 @@
+h1 {
+    text-transform: uppercase;
+}
+h2 {
+    text-align: right;
+    margin-right: 300px;
+}    
+body {
+  background-image: url("https://gameranx.com/wp-content/uploads/2016/06/27921CompanyofHeroes2_ApproachingBattle_1920x1080.jpg");
+  color: white; 
+}
+img {
+    height: 150px;
+}
+h2 {
+    font-family: 'Annie Use Your Telescope', cursive;
+}
+h1 {
+    font-family: 'Annie Use Your Telescope', cursive;
+}
+ 
